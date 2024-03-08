@@ -21,14 +21,14 @@ Using the **CORD-NER dataset** and Knowledge Graph, determine and map out the de
 
 
 # **3. Question-Answering:**
-![image](C:\Users\Vinoc\Pictures\Screenshots\Screenshot 2024-03-08 223450.png)
+![image]("C:\Users\Vinoc\Pictures\Screenshots\Screenshot 2024-03-08 223450.png")
 
-![image](C:\Users\Vinoc\Pictures\Screenshots\Screenshot 2024-03-08 223514.png)
+![image]("C:\Users\Vinoc\Pictures\Screenshots\Screenshot 2024-03-08 223514.png")
 
-![image](C:\Users\Vinoc\Pictures\Screenshots\Screenshot 2024-03-08 223526.png)
+![image]("C:\Users\Vinoc\Pictures\Screenshots\Screenshot 2024-03-08 223526.png")
 
-![image](C:\Users\Vinoc\Pictures\Screenshots\Screenshot 2024-03-08 223537.png)
+![image]("C:\Users\Vinoc\Pictures\Screenshots\Screenshot 2024-03-08 223537.png")
 
-![image](C:\Users\Vinoc\Pictures\Screenshots\Screenshot 2024-03-08 223547.png)
+![image]("C:\Users\Vinoc\Pictures\Screenshots\Screenshot 2024-03-08 223547.png")
 
-![image](C:\Users\Vinoc\Pictures\Screenshots\Screenshot 2024-03-08 223612.png)
+![image]("C:\Users\Vinoc\Pictures\Screenshots\Screenshot 2024-03-08 223612.png")
