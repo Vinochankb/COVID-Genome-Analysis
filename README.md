@@ -21,14 +21,14 @@ Using the **CORD-NER dataset** and Knowledge Graph, determine and map out the de
 
 
 # **3. Question-Answering:**
-![image](https://user-images.githubusercontent.com/80167074/210631516-888cd902-86e2-4d11-b532-f3fe45483131.png)
+![image](C:\Users\Vinoc\Pictures\Screenshots\Screenshot 2024-03-08 223450.png)
 
-![image](https://user-images.githubusercontent.com/80167074/210631535-cd97217e-14f6-488d-bf09-d7bb799634c5.png)
+![image](C:\Users\Vinoc\Pictures\Screenshots\Screenshot 2024-03-08 223514.png)
 
-![image](https://user-images.githubusercontent.com/80167074/210631550-88a87ad6-77a0-4e07-844a-0f39a7492312.png)
+![image](C:\Users\Vinoc\Pictures\Screenshots\Screenshot 2024-03-08 223526.png)
 
-![image](https://user-images.githubusercontent.com/80167074/210631583-244d6d42-63bb-4614-ad75-2bc4d7adbe81.png)
+![image](C:\Users\Vinoc\Pictures\Screenshots\Screenshot 2024-03-08 223537.png)
 
-![image](https://user-images.githubusercontent.com/80167074/210631605-5ff55ed7-9906-45b3-9e23-c5e51902a2a0.png)
+![image](C:\Users\Vinoc\Pictures\Screenshots\Screenshot 2024-03-08 223547.png)
 
-![image](https://user-images.githubusercontent.com/80167074/210631623-50a42cfb-e50b-4cf7-a9f7-8a96c11fee53.png)
+![image](C:\Users\Vinoc\Pictures\Screenshots\Screenshot 2024-03-08 223612.png)
