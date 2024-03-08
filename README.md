@@ -21,14 +21,14 @@ Using the **CORD-NER dataset** and Knowledge Graph, determine and map out the de
 
 
 # **3. Question-Answering:**
-![image]("C:\Users\Vinoc\Pictures\Screenshots\Screenshot 2024-03-08 223450.png")
+![image](https://github.com/Vinochankb/COVID-Genome-Analysis/blob/950514e0b61d3f5d16b418aaf2598145cbd6228c/images/qa%20%20(1).png)
 
-![image]("C:\Users\Vinoc\Pictures\Screenshots\Screenshot 2024-03-08 223514.png")
+![image](https://github.com/Vinochankb/COVID-Genome-Analysis/blob/main/images/qa%20%20(2).png)
 
-![image]("C:\Users\Vinoc\Pictures\Screenshots\Screenshot 2024-03-08 223526.png")
+![image](https://github.com/Vinochankb/COVID-Genome-Analysis/blob/main/images/qa%20%20(3).png)
 
-![image]("C:\Users\Vinoc\Pictures\Screenshots\Screenshot 2024-03-08 223537.png")
+![image](https://github.com/Vinochankb/COVID-Genome-Analysis/blob/main/images/qa%20%20(4).png)
 
-![image]("C:\Users\Vinoc\Pictures\Screenshots\Screenshot 2024-03-08 223547.png")
+![image](https://github.com/Vinochankb/COVID-Genome-Analysis/blob/main/images/qa%20%20(5).png)
 
-![image]("C:\Users\Vinoc\Pictures\Screenshots\Screenshot 2024-03-08 223612.png")
+![image](https://github.com/Vinochankb/COVID-Genome-Analysis/blob/main/images/qa%20%20(6).png)
